@@ -1,4 +1,4 @@
- 
+
 import EmptyElement from './EmptyElement'
 
 const EmptyCol = () => {
