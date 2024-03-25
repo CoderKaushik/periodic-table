@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 import EmptyElement from './EmptyElement'
 
 const EmptyCol = () => {
