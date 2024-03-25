@@ -1,6 +1,3 @@
-
-import EmptyElement from './EmptyElement'
-
 const EmptyCol = () => {
   return (
     <div className='w-[72.7px] h-[10%]   inline-block'>
